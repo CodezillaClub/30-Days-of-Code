@@ -8,9 +8,10 @@ assignees: ''
 ---
 
 [PROGRESS] 
-### GitHub-Username : 
-**Date :**
-**Pronouns (He/She/They) :**
-**Domain Chosen :**
+## Participant Details
+**Start Date:**
+**Name/Nickname:**
+**Pronouns (He/She/They):**
+**Domain Chosen:**
 **Goals Set:**
-**Tasks done today :**
+
