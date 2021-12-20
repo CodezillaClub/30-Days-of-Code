@@ -14,4 +14,3 @@ assignees: ''
 **Pronouns (He/She/They):**
 **Domain Chosen:**
 **Goals Set:**
-
