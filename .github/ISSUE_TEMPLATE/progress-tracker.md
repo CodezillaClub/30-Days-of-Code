@@ -16,9 +16,9 @@ assignees: ''
 
 ## Milestones
 - [ ] Code for 30 days
-<!-- Add your own -->
+<!-- Add your goals here -->
 
 ## Checklist
 - [ ] I've read the Code of Conduct, Rules and Guidelines
-- [ ] I've named this Issue appropriately
+- [ ] I've named this Issue as indicated
 - [ ] I've been assigned a mentor
