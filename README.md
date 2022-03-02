@@ -27,7 +27,7 @@ Day N
 |Date |Day |Time |Event |Description |
 |---|---|---|---|---|
 |1st March | Tuesday | 18:00 - 19:00 | Opening ceremony | Kicking things off | 
-|5th March | Saturday | 4:00 - 5:00 | Decoding MOZ://A | Jyotsna Gupta from the Mozilla organization on contributing to MDN |
+|6th March | Sunday | 16:00 - 17:00 | Decoding MOZ://A | Jyotsna Gupta from the Mozilla organization on contributing to MDN |
 |6th March | Sunday | TBD | Weekly Standup | Communty wide accountability session |
 |12th March | Saturday | 10:00 - 11:00 | Introduction to AZURE IoT | Sheetal Nair A from the MLSA community on using the AZURE IoT tool |
 |13th March | Sunday | TBD | Weekly Standup | Communty wide accountability session |
